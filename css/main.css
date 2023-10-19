@@ -1,0 +1,45 @@
+
+
+
+
+.freeship{
+    width: 5%;
+}
+
+.spicon{
+    width: 5%;
+}
+
+.laptopicon{
+    width: 90%;
+}
+
+.hoicham{
+    width: 5%;
+}
+
+button{
+    margin: 0.1%;
+}
+
+
+.chip{
+    background-color: white;
+    border: 1px gray solid;
+    margin: -6px
+}
+
+.btn2{
+    padding: 10%;
+    
+}
+
+/* #main{
+    padding: 20px;
+} */
+
+
+section{
+    margin: 4%;
+}
+
